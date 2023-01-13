@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "0.1.0",
-  "homepage": "https://visheshpuri1708.github.io/react-portfolio",
+  "homepage": "http://visheshpuri.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
