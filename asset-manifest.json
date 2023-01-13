@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.83a1beee.css",
-    "main.js": "/react-portfolio/static/js/main.7863b7c5.js",
-    "static/media/my.jpg": "/react-portfolio/static/media/my.284683f1400e468bdf70.jpg",
-    "static/media/Poppins-Medium.ttf": "/react-portfolio/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "static/media/new1.png": "/react-portfolio/static/media/new1.e1dd7a9028551849e223.png",
-    "static/media/tsa.jpg": "/react-portfolio/static/media/tsa.337c5715031ec39dbaf1.jpg",
-    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.b83aeeb4ff607d50d096.png",
-    "static/media/unit-testing.png": "/react-portfolio/static/media/unit-testing.d849213f64e87cda2a88.png",
-    "static/media/ccf_icon.jpg": "/react-portfolio/static/media/ccf_icon.1b7b2d7fb99b3070184a.jpg",
-    "static/media/doctalk.jpg": "/react-portfolio/static/media/doctalk.9967ec883aaa636a995d.jpg",
-    "static/media/chatbot.jpg": "/react-portfolio/static/media/chatbot.e02ab833ff8a1e70bd45.jpg",
-    "index.html": "/react-portfolio/index.html",
-    "main.83a1beee.css.map": "/react-portfolio/static/css/main.83a1beee.css.map",
-    "main.7863b7c5.js.map": "/react-portfolio/static/js/main.7863b7c5.js.map"
+    "main.css": "/static/css/main.9b301ee2.css",
+    "main.js": "/static/js/main.21b36b7b.js",
+    "static/media/my.jpg": "/static/media/my.284683f1400e468bdf70.jpg",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/new1.png": "/static/media/new1.e1dd7a9028551849e223.png",
+    "static/media/tsa.jpg": "/static/media/tsa.337c5715031ec39dbaf1.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.b83aeeb4ff607d50d096.png",
+    "static/media/unit-testing.png": "/static/media/unit-testing.d849213f64e87cda2a88.png",
+    "static/media/ccf_icon.jpg": "/static/media/ccf_icon.1b7b2d7fb99b3070184a.jpg",
+    "static/media/doctalk.jpg": "/static/media/doctalk.9967ec883aaa636a995d.jpg",
+    "static/media/chatbot.jpg": "/static/media/chatbot.e02ab833ff8a1e70bd45.jpg",
+    "index.html": "/index.html",
+    "main.9b301ee2.css.map": "/static/css/main.9b301ee2.css.map",
+    "main.21b36b7b.js.map": "/static/js/main.21b36b7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.83a1beee.css",
-    "static/js/main.7863b7c5.js"
+    "static/css/main.9b301ee2.css",
+    "static/js/main.21b36b7b.js"
   ]
 }
