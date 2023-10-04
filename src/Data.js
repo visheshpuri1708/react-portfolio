@@ -57,49 +57,62 @@ export const icons = [<FaReact />, <FaHtml5 />, <FaCss3 />, <FaNodeJs />, <FaPyt
 export const experiences = [
   {
     id: 1,
-    year: "Jun 2020 - Jan 2022",
-    position: "Web Developer (Intern)",
-    company: "HelloTripper",
-    responsibility: "Designed a travel itinerary website and got experienced with JavaScript, PHP, Python and SQL along with various server-side frameworks Django and Express.JS. Collaborated with AI team to create an AI model and increased its efficiency by 18% to build an itinerary for users to help them plan their journey. Developed object-oriented code in JavaScript with 100% accordance to industry and company standards."
+    year: "May 2023 - Present",
+    position: "Full-Stack Software Developer",
+    company: "Fonemed",
+    responsibility: "Collaborating with the development team to design, develop, test, and deploy progressive web app solutions using React, DynamoDB, AWS for microservices and JIRA for agile development. Analyzing and debugging issues in software applications, troubleshoot problems, and propose effective solutions by following industry best practices and coding standards"
   },
   {
-    di: 2,
-    year: "Jan 2020 - April 2020",
-    position: "Relationship Manager (Intern)",
-    company: "UDAAN",
-    responsibility: "Connected with potential clients, estimating contracts and presenting various addon services increasing client satisfaction by 32%. Utilized sales data to predict peak season demand, increasing popular item availability by 31% and boosting revenue by 29%. Documenting information requested and the solutions provided, developing strategies to expand the client base."
+    id: 2,
+    year: "May 2023 - August 2023",
+    position: "UI/UX Developer",
+    company: "Mxpert",
+    responsibility: "Designed interactive UI/UX prototypes using Figma and Lucidchart to present user-friendly digital interfaces for the company's products and services, ensuring a seamless user experience. Implemented a comprehensive Google Analytics tracking system, utilizing event tracking to monitor and analyze user interactions and behaviour, providing valuable insights for the business"
   },
   {
     id: 3,
-    year: "Sep 2021 - Sep 2022",
-    position: "Customer Experience Associate",
-    company: "Walmart Canada",
-    responsibility: "Established processes for maintaining accurate work order files, resulting in a decrease of 8% of delayed or missed deliveries. Handled an average of 80 customer inquiries and complaints per day with a 96% customer satisfaction rate."
+    year: "Jan 2023 - May 2023",
+    position: "React Developer",
+    company: "Orogen Tech",
+    responsibility: "Managed and leveraged React components using IBMs Carbon Design Systems to ensure consistent UI/UX across all digital products and integrating the website with Spring-boot back-end. Maintained web applications using modern development frameworks and tools, such as Redux, webpack, Jest and fetching the information in a dashboard using RESTful API's"
   },
   {
     id: 4,
-    year: "May 2022 - Present",
-    position: "Customer Service Associate",
-    company: "Loblaws Inc. Canada",
-    responsibility: "Process orders and make adjustments as needed to ensure customers' issues are resolved and needs met. Multi-tasking to monitor and control concurrent tasks simultaneously."
+    year: "Jan 2023 - May 2023",
+    position: "Data Science Research Assistant",
+    company: "C-CORE",
+    responsibility: "Coordinated with geotechnical team in comparing the different machine learning models including ExtraTreesRegressor and KNN Regressor on their prediction solutions. Utilized extensive pile driving internal database, totaling 48GB in size, to merge essential features, resulting in a substantial improvement in model accuracy, increasing it from 0.83 to 0.91"
+  },
+  {
+    id: 5,
+    year: "Jun 2020 - Jan 2022",
+    position: "Jr. Web Developer",
+    company: "HelloTripper",
+    responsibility: "Designed a dynamic travel itinerary website from the ground up, utilizing JavaScript, PostgreSQL, Node.js, React.js, HTML, and CSS and server-side frameworks: Django and Express.JS. Actively participated with AI team to contribute to a ML model and increased its efficiency by brainstorming and implementing creative ideas into website's development"
   }
 ]
 
 export const certifications = [
   {
     id: 1,
+    year: "Sep 2022 - Sep 2023",
+    name: "Dean's List, Faculty of Science",
+    credential: "Memorial University of Newfoundland"
+  },
+  {
+    id: 2,
     year: "Oct 2022 - Oct 2025",
     name: "AWS Security Speciality",
     credential: "1BTYLJG1R2B4Q1GK"
   },
   {
-    di: 2,
+    di: 3,
     year: "Jul 2022 - Jul 2025",
     name: "AWS Cloud Practitioner",
     credential: "5DLTW3S1YJR41HCH"
   },
   {
-    di: 3,
+    di: 4,
     year: "April 2020",
     name: "The Fundamentals of Digital Marketing - Google",
     credential: "CNE DBX DLM"
